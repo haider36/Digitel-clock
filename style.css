@@ -1,0 +1,11 @@
+.parents{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    height: 84px;
+    width: 84px;
+    border-radius: 60px;
+    color: aliceblue;
+    font-family: sans-serif;
+}
